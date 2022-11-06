@@ -1,4 +1,4 @@
-# Problema de Predição de Classe de Vinhos utilizando o KNN*
+## Problema de Predição de Classe de Vinhos utilizando o KNN*
 #### Universidade Federal de Ouro Preto
 
 ## Participantes
